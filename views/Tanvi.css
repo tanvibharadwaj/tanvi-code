@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.sec-t1 {
+    font-family: Quicksand;
+    font-weight: 900;
+    font-size: 40px;
+    text-align: center;
+}
+
+.sec-t2 {
+    background-size: cover;
+    font-family: Quicksand;
+    background-color: #eddcc2;
+    padding: 80px 90px;
+}
+
+.submit_btn {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #BD9354;
+    color: #fff;
+    border: none;
+}
+
+.submit_btn:hover {
+    background-color: rgb(104, 53, 15);
+}
+
+.sec-t3 {
+    font-family: Quicksand;
+    color: #fff;
+}
+
+.sec-t4 {
+    font-family: Quicksand;
+    color: #fff;
+    font-weight: 600;
+}
+
+.cd-tp1{
+    border-radius: 15px;
+    font-family: Quicksand;
+}
+.add_btn{
+    border-radius: 10px;
+    background-color:#BD9354 ;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    color: #fff;
+}
+.add_btn:hover{
+background-color:  rgb(104, 53, 15);
+color: #000;
+}
